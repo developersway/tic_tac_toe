@@ -1,0 +1,14 @@
+@media screen and (max-width: 480px){
+    td{
+        width: 80px;
+        height:80px;
+        font-size: 30px;
+    }
+
+    #but{
+  
+        width: 20%;
+        height: 30px;
+          
+      }
+}
